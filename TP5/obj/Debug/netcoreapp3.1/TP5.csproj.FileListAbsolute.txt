@@ -1,0 +1,13 @@
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\bin\Debug\netcoreapp3.1\TP5.exe
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\bin\Debug\netcoreapp3.1\TP5.deps.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\bin\Debug\netcoreapp3.1\TP5.runtimeconfig.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\bin\Debug\netcoreapp3.1\TP5.runtimeconfig.dev.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\bin\Debug\netcoreapp3.1\TP5.dll
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\bin\Debug\netcoreapp3.1\TP5.pdb
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\obj\Debug\netcoreapp3.1\TP5.csprojAssemblyReference.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\obj\Debug\netcoreapp3.1\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\obj\Debug\netcoreapp3.1\TP5.AssemblyInfoInputs.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\obj\Debug\netcoreapp3.1\TP5.AssemblyInfo.cs
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\obj\Debug\netcoreapp3.1\TP5.dll
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\obj\Debug\netcoreapp3.1\TP5.pdb
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP5\obj\Debug\netcoreapp3.1\TP5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\bin\Debug\netcoreapp3.1\TP3.exe
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\bin\Debug\netcoreapp3.1\TP3.deps.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.dev.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\bin\Debug\netcoreapp3.1\TP3.dll
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\bin\Debug\netcoreapp3.1\TP3.pdb
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\obj\Debug\netcoreapp3.1\TP3.csprojAssemblyReference.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\obj\Debug\netcoreapp3.1\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfoInputs.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfo.cs
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\obj\Debug\netcoreapp3.1\TP3.dll
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\obj\Debug\netcoreapp3.1\TP3.pdb
+C:\Users\Pantera\Documents\ProjectsVSCODE\Complejidad\TP3\obj\Debug\netcoreapp3.1\TP3.genruntimeconfig.cache
